@@ -1,0 +1,7 @@
+6
+B,F
+AZ,AG
+O,AR
+AT,K
+AU,AN
+G,D

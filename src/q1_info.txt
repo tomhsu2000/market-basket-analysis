@@ -1,0 +1,11 @@
+10
+AX,X
+B,AC
+F,AJ
+L,AW
+AY,B
+V,P
+X,AX
+E,AY
+AW,AG
+AP,I

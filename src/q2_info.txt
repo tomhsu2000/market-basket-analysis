@@ -1,0 +1,9 @@
+8
+Q,AK
+AP,M
+A,B
+M,AM
+AP,T
+F,L
+AV,X
+A,AM

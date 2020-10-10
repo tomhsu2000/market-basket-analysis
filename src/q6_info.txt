@@ -1,0 +1,15 @@
+14
+AI,L
+AT,AB
+P,AH
+W,AB
+N,A
+Y,Y
+AO,AR
+AB,R
+A,X
+AA,C
+K,I
+D,AF
+AN,AB
+AG,AP
