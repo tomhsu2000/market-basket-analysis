@@ -8,7 +8,7 @@
 ```
 $ pip install numpy
 ```
-* 訂單檔案(json format) [點此看更多範例](https://https://github.com/tomhsu2000/market-basket-analysis/tree/main/src)
+* 訂單檔案(json format) [點此看更多範例](https://github.com/tomhsu2000/market-basket-analysis/tree/main/src)
 ``` json
 [
 {	"order": 1,
@@ -52,7 +52,7 @@ $ pip install numpy
 }
 ]
 ```
-* 問題檔案(csv format) [點此看更多範例](https://https://github.com/tomhsu2000/market-basket-analysis/tree/main/src)
+* 問題檔案(csv format) [點此看更多範例](https://github.com/tomhsu2000/market-basket-analysis/tree/main/src)
 ```
 4    # 問題數目
 B,D    # 商品名稱
